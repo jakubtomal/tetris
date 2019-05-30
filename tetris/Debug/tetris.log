@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(39): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(55): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(88): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(142): error C2065: "k": niezadeklarowany identyfikator
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(161): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(171): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\dredi\documents\c++\tetris\tetris\main.cpp(182): warning C4305: "=": obcięcie z "double" do "float"
