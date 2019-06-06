@@ -1,0 +1,10 @@
+﻿1>------ Kompilacja rozpoczęta: Projekt: tetris, Konfiguracja: Debug Win32 ------
+1>main.cpp
+1>c:\users\dredi\documents\c++\tetris\tetris\main.cpp(40): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+1>c:\users\dredi\documents\c++\tetris\tetris\main.cpp(70): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+1>c:\users\dredi\documents\c++\tetris\tetris\main.cpp(127): warning C4305: "=": obcięcie z "double" do "float"
+1>c:\users\dredi\documents\c++\tetris\tetris\main.cpp(194): warning C4305: "-=": obcięcie z "double" do "float"
+1>c:\users\dredi\documents\c++\tetris\tetris\main.cpp(215): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+1>c:\users\dredi\documents\c++\tetris\tetris\main.cpp(225): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+1>Kompilowanie projektu „tetris.vcxproj” wykonane.
+========== Kompilacja: 1 zakończono powodzeniem, 0 zakończono niepowodzeniem, 0 zaktualizowano, 0 pominięto ==========
